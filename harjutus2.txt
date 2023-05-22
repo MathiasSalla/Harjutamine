@@ -1,0 +1,7 @@
+GitHub on loodud 2008. aastal ning on saanud üheks juhtivaks
+versioonihaldussüsteemi ja koostööplatvormi pakkujaks 
+tarkvaraprojektidele. GitHubi asustasid Chris Wanstrath,
+Tom Preston-Werner ja Pj Hyett, kes soovisid luua keskkonna,
+mis oleks lihtne ja võimas tarkvaraprojektide haldamiseks
+ning mis tooks kaasa avatud lähtekoodiga kogukondade tugeva
+koostöö.
